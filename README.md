@@ -1,6 +1,8 @@
 # arduino-neopixel-word-clock
 Arduino code + SVG files for Arduino + Neopixel Word Clock featured in Super Make Something Episode 6
 
+Instructions for this project can be found here: https://youtu.be/6tMTQ7Khe90
+
 by: Alex - Super Make Something
 
 date: August 16, 2015
